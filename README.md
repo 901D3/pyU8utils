@@ -1,7 +1,7 @@
-# pyU8utils
-## By 901D3
+# **pyU8utils**
+## **By 901D3**
 
-the file is still in demo
+Demo ver 0.35
 
 A tools for custom assembly code and more
 
@@ -9,11 +9,11 @@ Writen in python
 
 Modified 1 by Mink
 
-## CCH:
+## **CCH:**
 ### http://discord.gg/QjGpH6rSQQ
-## CCS/D:
-###
-## Spelling Master + ROP(by casio2009):
+## **CCS/D:**
+### https://discord.gg/HEAKm9Vquc
+## **Spelling Master + ROP(by casio2009):**
 ### https://discord.gg/5rxnzztAEW
 
 
