@@ -1,7 +1,7 @@
 # **pyU8utils**
 ## **By 901D3**
 
-Demo ver 0.35
+Demo ver 0.40
 
 A tools for custom assembly code and more
 
